@@ -1,0 +1,11 @@
+declare an object that belong to Mino_T class,called t and tp(pointer)
+declare another object that belong to Mino_block class,called b and bp(pointer)
+then paint the t and b,and make tp=&t, bp=*b
+paint the pointers
+
+then switch the object that pointers point to-> tp = &b, bp = &t
+paint the pointers in the result of this change
+
+then rotate the object that pointer point to
+paint them
+
